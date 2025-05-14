@@ -1,4 +1,4 @@
-# practica02_220418
+# practica03_220418
 <div style="display: flex; justify-content: space-between;">
     <img align="left" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20TIC.png?raw=true" alt="Imagen 1" width="200" />
     <img align="right" src="https://github.com/MauricioRL15/Logos_UTXJ/blob/main/LOGO%20UTXJ%202019.png?raw=true" alt="Imagen 2" width="300" height="80" />
@@ -14,7 +14,7 @@ Docente: Marco Antonio Ramírez Hernandez <br><br>
 Alumno: Jareni Gomez Juan <br><br>
 Matrícula: 220418 <br><br>
 
-Práctica 02: Esta skill responde a 4 comandos especificos  usando el modelo de interacción de Alexa:
+Práctica 03: Esta skill responde a 4 comandos especificos  usando el modelo de interacción de Alexa:
 
 - cual es su color favorito
 - cual es su cantante favorito
