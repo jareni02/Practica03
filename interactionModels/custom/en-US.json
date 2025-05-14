@@ -1,0 +1,86 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "slots": [],
+          "name": "SaludoIntent",
+          "samples": [
+            "saluda jare",
+            "hola",
+            "hola jare",
+            "saluda"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CreadorIntent",
+          "samples": [
+            "quién creó esta app",
+            "quién es el creador",
+            "Quien creo la aplicacion",
+            "quién la programó"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CarreraIntent",
+          "samples": [
+            "cuál es su carrera",
+            "Que carrera estudia",
+            "cuál es la carrera de jare"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ColorFavoritoIntent",
+          "samples": [
+            "cual es su color favorito",
+            "qué color le gusta",
+            "color favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CantanteFavoritoIntent",
+          "samples": [
+            "cual es su cantante favorito",
+            "qué cantante le gusta",
+            "cantante favorito"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello world",
+            "di hola mundo",
+            "saluda en inglés"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [],
+      "invocationName": "saluda jare"
+    }
+  }
+}
